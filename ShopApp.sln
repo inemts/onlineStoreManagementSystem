@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopApp", "ShopApp\ShopApp.csproj", "{54184A18-FC23-4A40-B8D1-915C6418FDFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54184A18-FC23-4A40-B8D1-915C6418FDFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54184A18-FC23-4A40-B8D1-915C6418FDFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54184A18-FC23-4A40-B8D1-915C6418FDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54184A18-FC23-4A40-B8D1-915C6418FDFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4442C290-F791-41A2-BAFB-562B132280D4}
+	EndGlobalSection
+EndGlobal
