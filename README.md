@@ -30,24 +30,24 @@
 5. **Orders** - таблица, содержащая в себе все заказы пользователей.
 
 # Скриншоты приложения:
-![Окно входа в приложение](https://github.com/Fealerok/ShopApp/blob/main/ScreensForRepository/1_LoginWindow.png)
+![Окно входа в приложение](https://github.com/inemts/onlineStoreManagementSystem/blob/main/ScreensForRepository/1_LoginWindow.png)
 </br>
 Окно входа в приложение.
 </br> </br> </br>
 
-![Список товаров](https://github.com/Fealerok/ShopApp/blob/main/ScreensForRepository/2_AdminWindow(Products).png)
+![Список товаров](https://github.com/inemts/onlineStoreManagementSystem/blob/main/ScreensForRepository/2_AdminWindow(Products).png)
 Список товаров.
 </br> </br> </br>
 
-![Окно добавления нового товара](https://github.com/Fealerok/ShopApp/blob/main/ScreensForRepository/3_AddingNewProduct.png)
+![Окно добавления нового товара](https://github.com/inemts/onlineStoreManagementSystem/blob/main/ScreensForRepository/3_AddingNewProduct.png)
 <br/>Окно добавления нового товара.
 </br> </br> </br>
 
-![Окно списка всех пользователей](https://github.com/Fealerok/ShopApp/blob/main/ScreensForRepository/4_ListOfUsers.png)
+![Окно списка всех пользователей](https://github.com/inemts/onlineStoreManagementSystem/blob/main/ScreensForRepository/4_ListOfUsers.png)
 <br/>Окно списка всех пользователей.
 </br> </br> </br>
 
-![Окно добавления нового пользователя](https://github.com/Fealerok/ShopApp/blob/main/ScreensForRepository/5_AddingNewUser.png)
+![Окно добавления нового пользователя](https://github.com/inemts/onlineStoreManagementSystem/blob/main/ScreensForRepository/5_AddingNewUser.png)
 Окно добавления нового пользователя.
 </br> </br> </br>
 
